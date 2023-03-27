@@ -41,7 +41,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📊 Statistics
-<img width="600px" height="450px" src="https://wakatime.com/share/@deepakatrahe/7b042d6b-d89c-4c01-b997-77fc5a0d8eb1.png" />
+<img width="600px" height="450px" src="https://wakatime.com/share/@deepakatrahe/f965960d-a7ec-438b-95e9-5276a3dfd00b.png" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepakatrahe&layuout=compact&theme=gotham" alt="Weekly stats"/>
 
 ### Profile visits
