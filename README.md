@@ -23,12 +23,12 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23005C0F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![CPP](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PROBLEMSOLVING](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ALGORITHMS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![OPERATINGSYSTEMS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![COMPUTERNETWORKS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![DATABASEMANAGEMENT](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![CPP](https://img.shields.io/badge/CPP-%23323330.svg?style=for-the-badge&logo=CPP&logoColor=%23F7DF1E)
+![PROBLEMSOLVING](https://img.shields.io/badge/PROBLEMSOLVING-6DA55F?style=for-the-badge&logo=PROBLEMSOLVING&logoColor=white)
+![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-%2320232a.svg?style=for-the-badge&logo=ALGORITHMS&logoColor=%2361DAFB)
+![OPERATINGSYSTEMS](https://img.shields.io/badge/OPERATINGSYSTEMS-%23E34F26.svg?style=for-the-badge&logo=OPERATINGSYSTEMS&logoColor=white)
+![COMPUTERNETWORKS](https://img.shields.io/badge/COMPUTERNETWORKS-%231572B6.svg?style=for-the-badge&logo=COMPUTERNETWORKS&logoColor=white)
+![DATABASEMANAGEMENT](https://img.shields.io/badge/DATABASEMANAGEMENT-%230081CB.svg?style=for-the-badge&logo=DATABASEMANAGEMENT&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
