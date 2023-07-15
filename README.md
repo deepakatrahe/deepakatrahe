@@ -23,7 +23,7 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23005C0F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![CPP](https://img.shields.io/badge/cpp-%23323330.svg?style=for-the-badge&logo=CPP&logoColor=%23F7DF1E)
+![CPP](https://img.shields.io/badge/cpp-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E)
 ![PROBLEMSOLVING](https://img.shields.io/badge/PROBLEMSOLVING-6DA55F?style=for-the-badge&logo=PROBLEMSOLVING&logoColor=white)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-%2320232a.svg?style=for-the-badge&logo=ALGORITHMS&logoColor=%2361DAFB)
 ![OPERATINGSYSTEMS](https://img.shields.io/badge/OPERATINGSYSTEMS-%23E34F26.svg?style=for-the-badge&logo=OPERATINGSYSTEMS&logoColor=white)
@@ -36,7 +36,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
